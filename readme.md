@@ -14,15 +14,15 @@ Build a React application that allow to create users with name and friends (frie
 - A page to create a new user (2 in schema)
 
   - in this page a user must insert a name
-  - a friend can optionally be selected
-  - if "new friend" is selected a new "create user" page is stacked on top of the current one while showing a slice of the previous
+  - a friend can optionally be selected by users already existing
+  - if "new friend" is clicked a new "create user" page is stacked on top of the current one while showing a slice of the previous
     NB: this can we done infinitely - when two or more creation are stacked clicking on a lower item in the stack asks the user to save or abort current user creation
 
 - A page that allow edit of a user (3 in schema)
 
 ## API constrain
 
-- a creation can randomly fail.
+- a user creation or user update can randomly fail.
 - if a creation fails, try again without the user knowing
 - if a creation fails two times in a row inform the user that something went wrong and show a button that allow for a retry
 - cannot have two or more friends with the same name
