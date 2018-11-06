@@ -20,12 +20,12 @@ Build a React application that allow to create users with name and friends (frie
 
 - A page that allow edit of a user (3 in schema)
 
-## API constrain
+## constrains
 
 - a user creation or user update can randomly fail.
 - if a creation fails, try again without the user knowing
 - if a creation fails two times in a row inform the user that something went wrong and show a button that allow for a retry
-- cannot have two or more friends with the same name
+- cannot have two or more users with the same name
 
 ## Faq
 
