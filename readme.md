@@ -29,20 +29,20 @@ Build a React application that allow to create users with name and friends (frie
 
 ## Faq
 
-Q: Should I create a server for the API?
+Q: Should I create a server for the API?  
 A: No, an in-memory implementation is enought
 
-Q: Is the visual styling relevant for this test
+Q: Is the visual styling relevant for this test  
 A: No
 
-Q: Should it work on mobile?
+Q: Should it work on mobile?  
 A: This is unimportant
 
-Q: Can I use an existing component library? (material-ui, reactstrap etc)
+Q: Can I use an existing component library? (material-ui, reactstrap etc)  
 A: No, it creates too much unnecessary clutter, defeating the purpose of this test.
 
-Q: Can I use library XXX or framework YYY ?
+Q: Can I use library XXX or framework YYY ?  
 A: Use anything you thing is most appropriate for the usecase
 
-Q: What should I test and how should I test it?
+Q: What should I test and how should I test it?  
 A: This decision is open to developer.
