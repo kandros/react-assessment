@@ -42,7 +42,7 @@ Q: Can I use an existing component library? (material-ui, reactstrap etc)
 A: No, it creates too much unnecessary clutter, defeating the purpose of this test.
 
 Q: Can I use library XXX or framework YYY ?  
-A: Use anything you thing is most appropriate for the usecase
+A: Use anything you think is most appropriate for the usecase
 
 Q: What should I test and how should I test it?  
 A: This decision is open to developer.
