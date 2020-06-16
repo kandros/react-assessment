@@ -27,6 +27,12 @@ Build a React application that allow to create users with name and friends (frie
 - if a creation fails two times in a row inform the user that something went wrong and show a button that allow for a retry
 - cannot have two or more users with the same name
 
+## Bonus point (optional)
+consider these ONLY after the logic is already working
+- Use TypeScript
+- Style the UI to be pleasant according to you taste
+- Use a css-in-js solution to do the styling such as [emotion](https://emotion.sh/)
+
 ## Faq
 
 Q: Should I create a server for the API?  
@@ -45,4 +51,4 @@ Q: Can I use library XXX or framework YYY ?
 A: Use anything you think is most appropriate for the usecase
 
 Q: What should I test and how should I test it?  
-A: This decision is open to developer.
+A: This decision is open to the developer.
