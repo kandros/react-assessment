@@ -28,7 +28,9 @@ Build a React application that allows creating users with name and friends (frie
 - cannot have two or more users with the same name
 
 ## Bonus point (optional)
+
 consider these ONLY after the logic is already working
+
 - Use TypeScript
 - Style the UI to be pleasant according to your taste
 - Use a css-in-js solution to do the styling such as [emotion](https://emotion.sh/)
@@ -52,3 +54,21 @@ A: Use anything you think is most appropriate for the usecase
 
 Q: What should I test and how should I test it?  
 A: This decision is open to the developer.
+
+## Why this test
+
+The application is small but with some challenging details that allow a candidate to choose how to solve them.
+
+### What is being tested
+
+- software design given constrains
+- component compositions and reuse
+- usage of patterns and best practices
+- knowledge of tooling around the Frontend ecosystem
+- attention to details in specification documents
+- making tech choices autonomously
+- software testing, what is tested and how
+
+## Time requirements
+
+This assessment is meant to test how a candidate works in a work-like day-to-day situation, a tight deadline (days) is highly discouraged.
