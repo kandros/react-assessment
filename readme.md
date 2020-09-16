@@ -1,4 +1,4 @@
-# Frontend assessment
+# React assessment
 
 ## Goals of the assessment
 
